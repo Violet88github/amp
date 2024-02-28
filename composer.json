@@ -4,6 +4,12 @@
     "type": "silverstripe-vendormodule",
     "keywords": ["silverstripe", "amp", "conversion"],
     "license": "BSD-3-Clause",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Lullabot/amp-library.git"
+        }
+    ],
     "authors": [
     {
         "name": "Nivanka Fonseka",
